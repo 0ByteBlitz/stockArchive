@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.reacTable {
+    margin: 30px 30px; 
+}
+
+.What_s_trending_ {
+    font-size: 30px;
+    font-family: "AcuminPro";
+    color: rgb(25, 145, 250);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 0.476;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    z-index: 23;
+}
+
+.footer {
+    background-color: rgb(38, 153, 251);
+    position: absolute;
+    left: 0px;
+    top: 750px;
+    width: 100vw;
+    overflow-x: hidden;
+    height: 100px;
+    z-index: 34;
+}
+
+.form {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 70%;
+    top: 20px;
+    width: 364px;
+    height: 50px;
+    z-index: 11;
+}
+
+.footer-text {
+    font-size: 16px;
+    font-family: "Aller";
+    color: rgb(255, 255, 255);
+    line-height: 1.875;
+    position: absolute;
+    bottom: 10px;
+    z-index: 36;
+}
+
+.note {
+    margin-left: 60%;
+}
